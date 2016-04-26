@@ -1,0 +1,9 @@
+Dopo aver collegato il tutto, usa prima il flasher UFFICIALE per il bootloader, annessi e connessi (cartella BASE FLASHER)
+poi usa il flasher nodemcu (cartella NODEMCU FLASHER) con baudrate a 115200 
+poi carica il tuo firmware attraverso arduino ide o ESPlorer
+Divertiti :)
+ENGLISH
+After connecting the device, use the OFFICIAL factory flasher for flashing the bootloader and all his friends (BASE FLASHER folder)
+then use the nodemcu flasher (NODEMCU FLASHER folder) with 115200 baudrate
+then you can upload your own firmware using arduino ide or ESPlorer
+Enjoy :)
